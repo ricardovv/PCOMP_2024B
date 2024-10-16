@@ -60,8 +60,8 @@ git add .
 4- Una vez todo agregado al "stage", hay q e agregar un mensaje para indentificar los cambios. Primero se agrega -m y luego el mensaje entre comillas 
 git commit -m "Subiento los cambios X, Y, Z."
 
-3– Para subir material deben "empujar" (push) los cambios locales al repositorio online. Así podrán "subir" las cosas que se vayan cambiando al repositorio online.  En su consola colocar, y dan enter:  
-git pull
+3– Para subir material deben "empujar" (push) los cambios locales al repositorio online. Así podrán "subir" las cosas que se vayan cambiando al repositorio online. origin main" indica que es en el repositrio y rama principales. En su consola colocar, y dan enter:  
+git push origin main 
 
 
 <br> 
