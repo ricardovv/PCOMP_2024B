@@ -69,24 +69,29 @@ git push origin main
 
 Estos pasos permiten crear un repositorio online que se pueda ser visto en una web. Inicializaremos el reposotirio online, luego lo clonamos local, trabajamos allí, y luego se suben los cambios con push. Ojo que a veces los cambios se demoran un poco en aparecer.  
 
-**1- CREAR repositorio**
-- Ir a su cuenta github.  
-- Crear nuevo reposotirio: "+", "New repository". 
-- El nombre del repositorio debe tener esta estructura: PCOMP24B_p02_apellido_titulo. 
-– en descripción colocar PCOMP 2024B, P02, Titulo_del_Proyecto, Integrantes (orden alfabético porfa): Apellido Nombre, Apellido Nombre, Apellido Nombre...
+**1- CREAR repositorio**. 
+
+– Ir a su cuenta github.  
+– Crear nuevo reposotirio: "+", "New repository".   
+– El nombre del repositorio debe tener esta estructura: PCOMP24B_p02_apellido_titulo.   
+– En descripción colocar PCOMP 2024B, P02, Titulo_del_Proyecto, Integrantes (orden alfabético porfa): Apellido Nombre, Apellido Nombre, Apellido Nombre...  
 – Public: debe ser público.   
 – Add README file. Poner que agregue un archivo Readme (es en Markdown). Sirve como registro general de lo que trata el repositorio.   
 – "Crear repositorio". Esto lleva al repositorio creado.   
 
-**2- CREAR ARCHIVO HTML (Después localmente lo podemos modificar)**. 
-- En el repositorio, crear un archivo HTML: "Add file / Creare new file". 
+**2- CREAR ARCHIVO HTML (Después localmente lo podemos modificar)**   
+
+– En el repositorio, crear un archivo HTML: "Add file / Creare new file".  
 – Luego del nombre del repositorio, colocar el nombre del archivo, debe ser este: index.html  
-– En el cuerpo colocar un texto html cuaquiera, por ejemplo (con los braquets): <h1>Este es un titulo de github pages. </h1>  
+– En el cuerpo colocar un texto html cuaquiera, por ejemplo (con los braquets): 
+`
+<h1>Este es un titulo de github pages. </h1>
+`  
 – "Commit Changes"   
 
 **3- SETTINGS DE GITHUB PAGES**  
-- Ir a "Settings" (arriba derecha).  
-- Ir a "Pages" (abajo izquierda).  
+– Ir a "Settings" (arriba derecha).  
+– Ir a "Pages" (abajo izquierda).  
 – En Source seleccinar "Deploy from a branch" 
 – En Branch, seleccionar "Main"   
 – Hacer "Save"  
@@ -94,7 +99,7 @@ Estos pasos permiten crear un repositorio online que se pueda ser visto en una w
 – La url es: https://nombredesucuenta.github.io/elrepositorioweb/  
 
 Pueden ver estos pasos acá:  
-- Programación Accesible: https://www.youtube.com/watch?v=8IdBAysf-U4   
+– Programación Accesible: https://www.youtube.com/watch?v=8IdBAysf-U4   
 
 
 <br><br>
