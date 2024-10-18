@@ -12,11 +12,11 @@ Esto es para navegar con la línea de comandos, hasta y llegar a la carpeta dond
 cd ruta/de/mi/carpeta/
 
 3–Confirmar con pwd (Mac) o dir (Windows) si están en la carpeta de su repositorio. Si estan allí, ir al siguiente paso que les ionterese. Si no están, ir al paso anterior, hasta llegar a su carpeta. Para confirmar donde están, en su consola colocar lo siguiente, y dan enter:  
-pwd o dir (debe mostrarles la ruta de la carpeta donde estan)
+pwd o dir (debe mostrarles la ruta de la carpeta donde estan). 
 
 
 <br> 
-## B– Clonar repositorio
+## B– Clonar repositorio. 
 
 Si han creado un repositorio nuevo en github (online), y desean tener copia local, deben primero clonarlo en otra carpeta (no la misma donde tienen el repositorio del curso). 
 
@@ -31,10 +31,10 @@ Si han creado un repositorio nuevo en github (online), y desean tener copia loca
 5- Ahora pueden editar el HTML local, y guardar. Para subir cambios, ver "D– Subir cambios locales a guthub con git push".  
 
 
-<br><br>
+<br>
 ## C- Cómo bajar el material desde el repositorio PCOMP_2024B  
 
-Para bajar el material dsesde un repositorio de github, deben usar el comando git pull, en su consola (Terminal en Mac, CMD en Windows), estando en la carpeta del repositorio que crearon. Entonces recuerden:
+Para bajar el material dsesde un repositorio de github, deben usar el comando git pull, en su consola (Terminal en Mac, CMD en Windows), estando en la carpeta del repositorio que crearon. Entonces recuerden:  
 
 1- Del punto "A- Cómo ir a su carpeta–repositorio localcon línea de Comandos." hacer los pasos 1 al 3.
 
@@ -61,11 +61,11 @@ git add .
 git commit -m "Subiento los cambios X, Y, Z."
 
 3– Para subir material deben "empujar" (push) los cambios locales al repositorio online. Así podrán "subir" las cosas que se vayan cambiando al repositorio online. origin main" indica que es en el repositrio y rama principales. En su consola colocar, y dan enter:  
-git push origin main 
+git push origin main   
 
 
-<br> 
-## E- Crear repositorio online para Github pages
+<br>  
+## E- Crear repositorio online para Github pages. 
 
 Estos pasos permiten crear un repositorio online que se pueda ser visto en una web. Inicializaremos el reposotirio online, luego lo clonamos local, trabajamos allí, y luego se suben los cambios con push. Ojo que a veces los cambios se demoran un poco en aparecer.  
 
