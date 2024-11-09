@@ -16,7 +16,7 @@ pwd o dir (debe mostrarles la ruta de la carpeta donde estan).
 
 
 <br> 
-## B– Clonar repositorio. 
+## B– Clonar repositorio.  
 
 Si han creado un repositorio nuevo en github (online), y desean tener copia local, deben primero clonarlo en otra carpeta (no la misma donde tienen el repositorio del curso). 
 
