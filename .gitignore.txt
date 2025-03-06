@@ -1,5 +1,10 @@
+Icon?
 .DS_store
-.ipynb_checkpoints
-M01_Ejercicios/.ipynb_checkpoints
-M02_Ejercicios/.ipynb_checkpoints
-M03_Ejercicios/.ipynb_checkpoints
+# ignorar todos los archivos .ipynb_checkpoints
+*.ipynb_checkpoints
+# ignorar todos los archivos .ipynb
+*.ipynb
+/M02_Ejercicios
+/M03_Ejercicios
+# excepto production.log
+!M01_E01_Intro_Python_Ejemplos.ipynb
