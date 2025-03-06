@@ -1,0 +1,5 @@
+.DS_store
+.ipynb_checkpoints
+M01_Ejercicios/.ipynb_checkpoints
+M02_Ejercicios/.ipynb_checkpoints
+M03_Ejercicios/.ipynb_checkpoints
